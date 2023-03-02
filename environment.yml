@@ -1,0 +1,18 @@
+name: python_tutorial
+
+dependencies:
+    - python=3.8
+    - conda-forge::jupyterlab
+    - conda-forge::numpy
+    - conda-forge::matplotlib
+    - pillow
+    - seaborn
+    - pathlib
+    - conda-forge::scikit-learn
+    - conda-forge::pyside2
+    - conda-forge::h5py
+    - conda-forge::scipy
+    - shapely
+    - conda-forge::pandas
+    - ffmpeg
+    - pip
